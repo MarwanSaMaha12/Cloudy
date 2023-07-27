@@ -214,6 +214,9 @@ footer .send {
 .fa-apple:hover{
   color: #262830;
 }
+.appgalley{
+  margin-top: -14px;
+}
 @media screen and (max-width:768px) {
   .fs-64px {
     font-size: 44px;
